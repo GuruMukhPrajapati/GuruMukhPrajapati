@@ -1,6 +1,6 @@
 <h1 align="center">Hello, here is GOURAV PRAJAPAT</h1>
 <h3 align="center">A person who wanna become a cs expert</h3>
-img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flabs.sogeti.com%2F6-cybersecurity-predictions-for-2020%2F&psig=AOvVaw3uEYSMrrV-0OPAUFpiibx3&ust=1675684770349000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDngLmq_vwCFQAAAAAdAAAAABAY"
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flabs.sogeti.com%2F6-cybersecurity-predictions-for-2020%2F&psig=AOvVaw3uEYSMrrV-0OPAUFpiibx3&ust=1675684770349000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPDngLmq_vwCFQAAAAAdAAAAABAY">
 
 - 🔭 I’m currently focusing on **lean cs basic and advance**
 
