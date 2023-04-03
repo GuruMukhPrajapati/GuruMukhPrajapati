@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/117162170/229603151-023a917d-2dee-4d76-98a3-b80be7fc658a.gif)]()
 <h1 align="center">Hello, here is GOURAV PRAJAPAT</h1>
 <h3 align="center">A person who wanna become a cs expert</h3>
 <img align="right" alt="Coding" width="400" src="https://pro2-bar-s3-cdn-cf.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/13d79c62-bf64-42a5-b1e0-3bba1acf8f9b_rw_1200.gif?h=eec2d9f16781bc52a9dd1a85db0c57ec">
