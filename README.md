@@ -5,6 +5,8 @@
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://pro2-bar-s3-cdn-cf.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/13d79c62-bf64-42a5-b1e0-3bba1acf8f9b_rw_1200.gif?h=eec2d9f16781bc52a9dd1a85db0c57ec">
+
+## 💬 should read 
 - 🔭 I’m currently focusing on **lean cs basic and advance**
 
 - 👯 I’m looking to **people think like me**
