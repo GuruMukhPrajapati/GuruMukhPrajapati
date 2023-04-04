@@ -19,26 +19,28 @@
 
 ## Contact Me 🤙
 
-<a href="" target="_blank">
+<a href="https://www.instagram.com/gurumukhprajapat/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="border-radius: 100%;"/>
 </a>
 
 ## Languages and Tools  &#x1F528;
 
 
-<p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="45" height="47"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/vmware.png"/>
-<img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>
-
-</p>
+<p align="left">
+    <a href="https://www.w3schools.com/html/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    </a>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="45" height="47"/>
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img src="https://img.icons8.com/color/48/000000/vmware.png"/>
+  <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>
+  
+  </p>
  
 
 
