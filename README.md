@@ -5,7 +5,7 @@
   </h2>
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://pro2-bar-s3-cdn-cf.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/13d79c62-bf64-42a5-b1e0-3bba1acf8f9b_rw_1200.gif?h=eec2d9f16781bc52a9dd1a85db0c57ec">
+<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/117162170/229704927-e717e946-2ee4-4e11-8e74-bf9982363af0.gif" style="border-radius: 50%;">
 
 ##  Should read <span style="color: red; font-size: 30px; font-family: Impact, Charcoal, sans-serif;">&#x1F525;</span>
 
@@ -63,3 +63,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GuruMukhPrajapati&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurumukhprajapati&label=Profile%20views&color=0e75b6&style=flat" alt="gurumukhprajapati" /> </p>
+
+
+
+
+
+
