@@ -2,8 +2,7 @@
 ---
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier%20New&color=75C9C8&lines=Welcome+to+GuruMukh's+profile!" alt="Typing SVG" style="width: 100%; height: auto; font-size: 48px;" align="center">
 
-<img align="right" alt="Coding" height="160px" src="https://user-images.githubusercontent.com/117162170/229713087-92fe7112-c5dc-4f2c-9af6-b840cf9cc959.gif" style="borde
-r-radius: 50%;">
+
 
 ## 🚀 About Me
 
@@ -46,7 +45,7 @@ r-radius: 50%;">
 
 
 ## Github Stats [![Status](https://img.shields.io/badge/status-active-brightgreen?style=for-the-badge)](https://github.com/your_username/your_repo)
-
+<img align="right" alt="Coding" height="160px" widht="auto" src="https://user-images.githubusercontent.com/117162170/229713087-92fe7112-c5dc-4f2c-9af6-b840cf9cc959.gif">
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuruMukhPrajapati&show_icons=true&theme=github_dark)
 ## Streak-Stats
