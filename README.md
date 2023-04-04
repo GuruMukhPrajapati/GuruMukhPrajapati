@@ -1,13 +1,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/117162170/229603151-023a917d-2dee-4d76-98a3-b80be7fc658a.gif)]()
 ---
-<div align="center"><h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier%20New&color=75C9C8&lines=Welcome+to+GuruMukh's+profile!" alt="Typing SVG" style="width: 100%; height: auto; font-size: 48px;">
-  </h2>
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier%20New&color=75C9C8&lines=Welcome+to+GuruMukh's+profile!" alt="Typing SVG" style="width: 100%; height: auto; font-size: 48px;" align="center">
 
-<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/117162170/229704927-e717e946-2ee4-4e11-8e74-bf9982363af0.gif" style="border-radius: 50%;">
+<img align="right" alt="Coding" height="160px" src="https://user-images.githubusercontent.com/117162170/229713087-92fe7112-c5dc-4f2c-9af6-b840cf9cc959.gif" style="borde
+r-radius: 50%;">
 
-##  Should read <span style="color: red; font-size: 30px; font-family: Impact, Charcoal, sans-serif;">&#x1F525;</span>
+## 🚀 About Me
 
 - 🔭 I’m currently focusing on **lean cs basic and advance**
 
