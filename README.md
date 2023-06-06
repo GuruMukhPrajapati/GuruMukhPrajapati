@@ -2,43 +2,35 @@
 ---
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier%20New&color=75C9C8&lines=Welcome+to+GuruMukh's+profile!" alt="Typing SVG" style="width: 100%; height: auto; font-size: 48px;" align="center">
 
+<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
-
-## 🚀 About Me
-
-- 🔭 I’m currently focusing on **lean cs basic and advance**
-
-- 👯 I’m looking to **people think like me**
-
-- 📫 How to reach me **DM on insta**
-
-- ⚡ Fun fact **privacy is joke**
-
-## Contact Me 🤙
-
-<a href="https://www.instagram.com/gurumukhprajapat/" target="_blank">
-  <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" style="border-radius: 100%;"/>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Vladimir.<br>
+        Currently learning Basics of cyber security .<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/gurumukh">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+   <a href="https://www.instagram.com/gurumukhprajapat/">
+  <img src="https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram" alt="Instagram">
 </a>
 
-## Languages and Tools  &#x1F528;
+</p>
 
 
-<p align="left">
-    <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    </a>
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/kali-linux.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="45" height="45"/>
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" width="45" height="45"/>
-    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu" width="45" height="47"/>
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/000000/vmware.png"/>
-  <img src="https://img.icons8.com/color/48/000000/virtualbox.png"/>
-  
-  </p>
- 
+### Languages
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
+![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+
+### Technologies & Frameworks
+
+[![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+
 
 
 
