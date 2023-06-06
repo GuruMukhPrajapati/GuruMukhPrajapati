@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/117162170/229603151-023a917d-2dee-4d76-98a3-b80be7fc658a.gif)]()
 ---
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier%20New&color=75C9C8&lines=Welcome+to+GuruMukh's+profile!" alt="Typing SVG" style="width: 100%; height: auto; font-size: 48px;" align="center">
 
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier%20New&color=75C9C8&lines=Welcome+to+GuruMukh's+profile!" alt="Typing SVG" style="width: 100%; height: auto; font-size: 48px;" align="center"><img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
