@@ -29,7 +29,12 @@
 
 ### Technologies & Frameworks
 
-[![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![VMware](https://img.shields.io/badge/VMware-black?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/) [![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Sandbox](https://img.shields.io/badge/Sandbox-black?style=for-the-badge&logo=sandbox&logoColor=white)](https://sandbox.com/) [![VirtualBox](https://img.shields.io/badge/VirtualBox-black?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/) [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
+
+
+
+
+
 
 
 
