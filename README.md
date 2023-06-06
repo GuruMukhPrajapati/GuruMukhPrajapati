@@ -29,17 +29,8 @@
 
 ### Technologies & Frameworks
 
-[![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
-
-[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
-
-[![Sandbox](https://img.shields.io/badge/Sandbox-3B2E5A?style=for-the-badge&logo=sandbox&logoColor=white)](https://sandbox.com/)
 
 
 
