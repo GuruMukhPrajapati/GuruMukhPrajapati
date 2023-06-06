@@ -29,7 +29,8 @@
 
 ### Technologies & Frameworks
 
-[![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali](https://img.shields.io/badge/Kali-black?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+
 
 
 
