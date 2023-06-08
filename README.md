@@ -6,20 +6,19 @@
    <h1 align="center">ʜɪ, ɢᴜʏꜱ ! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 # 𝙄'𝙢 𝙂𝙤𝙪𝙧𝙖𝙫 𝙋𝙧𝙖𝙟𝙖𝙥𝙖𝙩.
-𝑰 <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/0933404d-4a95-4894-9aa6-22f1ab981e53" alt="Logo" width="13px"> 𝑭𝒊𝒏𝒅 𝒕𝒉𝒆 𝒗𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒚
+- 𝑰 <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/0933404d-4a95-4894-9aa6-22f1ab981e53" alt="Logo" width="13px"> 𝑭𝒊𝒏𝒅 𝒕𝒉𝒆 𝒗𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒚
 
 
 
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌 𝒕𝒐𝒐𝒍𝒔 𝑨𝒏𝒅 𝑰 𝒘𝒊𝒍𝒍 𝒉𝒆𝒍𝒑 𝒕𝒐 𝒕𝒉𝒆 𝒑𝒆𝒐𝒑𝒍𝒆 𝒘𝒊𝒕𝒉 𝒎𝒚 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆.
+- :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌 𝒕𝒐𝒐𝒍𝒔 𝑨𝒏𝒅 𝑰 𝒘𝒊𝒍𝒍 𝒉𝒆𝒍𝒑 𝒕𝒐 𝒕𝒉𝒆 𝒑𝒆𝒐𝒑𝒍𝒆 𝒘𝒊𝒕𝒉 𝒎𝒚 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆.
 
-🔐 𝒄𝒚𝒃𝒆𝒓 𝒔𝒆𝒄 𝒍𝒆𝒂𝒓𝒏𝒆𝒓 | <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/3b3a4adf-b601-4275-9fa3-d30f00ffd3ca" alt="Logo" width="20px"> 𝒄𝒐𝒇𝒇𝒆𝒆 𝒍𝒐𝒗𝒆𝒓 | <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/05f345ba-2577-4570-98b2-c481442dc324" alt="Logo" width="17px">
+- 🔐 𝒄𝒚𝒃𝒆𝒓 𝒔𝒆𝒄 𝒍𝒆𝒂𝒓𝒏𝒆𝒓 | <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/3b3a4adf-b601-4275-9fa3-d30f00ffd3ca" alt="Logo" width="20px"> 𝒄𝒐𝒇𝒇𝒆𝒆 𝒍𝒐𝒗𝒆𝒓 | <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/05f345ba-2577-4570-98b2-c481442dc324" alt="Logo" width="17px">
 𝑰'𝒎 𝒄𝒐𝒎𝒎𝒂𝒏 𝒈𝒖𝒚
 
-   <a href="https://www.instagram.com/gurumukhprajapat/">
+<a href="https://www.instagram.com/gurumukhprajapat/">
   <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=COLOR" alt="Instagram">
 </a>
-
 <a href="https://www.linkedin.com/in/gurumukh">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=COLOR" alt="LinkedIn">
 </a>
