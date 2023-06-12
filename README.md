@@ -48,7 +48,7 @@
 [![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
 [![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
-[![Tail OS](https://img.shields.io/badge/Tail_OS-black?style=for-the-badge&logo=tail-os)](https://tails.boum.org/install/index.en.html)
+[![Tail OS](https://img.shields.io/badge/Tail_OS-black?style=for-the-badge&logo=tail-os)](https://www.tail-os.org)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/pages/download/)
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
 
