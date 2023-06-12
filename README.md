@@ -27,9 +27,9 @@
 
 
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/GuruMukhPrajapati/1ST_YEAR_C_laguage_CODES)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GuruMukhPrajapati/All_code/tree/main/HTML%205)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GuruMukhPrajapati/All_code/tree/main/HTML%205)
 
 ## 𝘛𝘌𝘊𝘏𝘕𝘖𝘓𝘖𝘎𝘐𝘌𝘚 & 𝘍𝘙𝘈𝘔𝘌𝘞𝘖𝘙𝘒𝘚  <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/b5bb31fe-bde2-46ce-a7b6-8e1af6997b1d" alt="Logo" width="33px">
 
