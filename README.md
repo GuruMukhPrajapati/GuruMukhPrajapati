@@ -39,6 +39,8 @@
 [![VMware](https://img.shields.io/badge/VMware-black?style=for-the-badge&logo=vmware)](https://www.vmware.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=000000&color=000000)](https://code.visualstudio.com/)
 [![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)](https://www.canva.com/)
+[![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=COLOR1)](https://www.netlify.com/)
+
 
 ## 𝘖𝘚 <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/98e41f67-25d1-47ca-aac9-ff6269d67154" alt="Logo" width="25px">
 
