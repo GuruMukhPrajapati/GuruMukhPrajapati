@@ -25,7 +25,7 @@
 
 ## 𝘓𝘈𝘕𝘎𝘜𝘈𝘎𝘌𝘚  <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/a1549136-05f9-43df-b1a5-19150ff4a487" alt="Logo" width="25px">
 
-[![PDF Icon](https://img.shields.io/badge/PDF-black?style=for-the-badge&logo=adobe-acrobat-reader)](your-pdf-url-goes-here)
+
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/GuruMukhPrajapati/1ST_YEAR_C_laguage_CODES)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GuruMukhPrajapati/All_code/tree/main/HTML%205)
