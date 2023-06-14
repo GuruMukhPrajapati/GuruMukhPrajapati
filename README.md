@@ -14,7 +14,7 @@
 - :writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒄𝒓𝒆𝒂𝒕𝒊𝒗𝒆 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌 𝒕𝒐𝒐𝒍𝒔 𝑨𝒏𝒅 𝑰 𝒘𝒊𝒍𝒍 𝒉𝒆𝒍𝒑 𝒕𝒐 𝒕𝒉𝒆 𝒑𝒆𝒐𝒑𝒍𝒆 𝒘𝒊𝒕𝒉 𝒎𝒚 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆.
 
 - 🔐 𝒄𝒚𝒃𝒆𝒓 𝒔𝒆𝒄 𝒍𝒆𝒂𝒓𝒏𝒆𝒓 | <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/3b3a4adf-b601-4275-9fa3-d30f00ffd3ca" alt="Logo" width="20px"> 𝒄𝒐𝒇𝒇𝒆𝒆 𝒍𝒐𝒗𝒆𝒓 | <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/05f345ba-2577-4570-98b2-c481442dc324" alt="Logo" width="17px">
-𝑰'𝒎 𝒄𝒐𝒎𝒎𝒂𝒏 𝒈𝒖𝒚
+𝑰'𝒎 𝒄𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒈𝒖𝒚
 
 <a href="https://www.instagram.com/gurumukhprajapat/">
   <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=COLOR" alt="Instagram">
