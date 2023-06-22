@@ -41,11 +41,20 @@
 [![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)](https://www.canva.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=COLOR1)](https://www.netlify.com/)
 
+# 𝘊𝘌𝘙𝘛𝘐𝘍𝘐𝘊𝘈𝘛𝘌𝘚
+
+[![Ethical Hacking Essentials](https://img.shields.io/badge/Ethical%20Hacking%20Essentials-000000?style=for-the-badge&logoColor=COLOR1)](https://eccommonstorage.blob.core.windows.net/codered/certificates/e1f9b573-cd56-48d0-a622-1e26158c812d.png)
+[![Blockchain and Internet of Things](https://img.shields.io/badge/Blockchain%20and%20Internet%20of%20Things-000000?style=for-the-badge&logoColor=COLOR1)](https://drive.google.com/file/d/1kNHkBp1_t9uufW3Rj8FoAwtOu1CqHkpn/view)
+[![Data Visualization](https://img.shields.io/badge/Data%20Visualization-000000?style=for-the-badge&logoColor=COLOR1)](https://drive.google.com/file/d/1toorxxu0gr5jXhVxqV1SykRMi1FU2lE8/view)
+[![ECES](https://img.shields.io/badge/ECES-000000?style=for-the-badge&logoColor=COLOR1)](https://eccommonstorage.blob.core.windows.net/codered/certificates/6bfa71df-4b03-4982-903f-872c8d4ebeca.png)
+[![Introduction to Programming Using HTML and CSS](https://img.shields.io/badge/Introduction%20to%20Programming%20Using%20HTML%20and%20CSS-000000?style=for-the-badge&logoColor=COLOR1)](https://drive.google.com/file/d/1kJb7g4ONP9Ie_dpd7SgirEMmWlDNz_37/view)
+[![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logoColor=COLOR1)](https://udemy-certificate.s3.amazonaws.com/image/UC-7f90d333-b4f8-4033-a909-2821dda13c3c.jpg?v=1686207831000)
+[![Ethical Hacking from Scratch](https://img.shields.io/badge/Ethical%20Hacking%20from%20Scratch-000000?style=for-the-badge&logoColor=COLOR1)](https://udemy-certificate.s3.amazonaws.com/image/UC-6af44542-eeaa-4588-9419-023f5908f9e1.jpg)
+
+
+
 
 ## 𝘖𝘚 <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/98e41f67-25d1-47ca-aac9-ff6269d67154" alt="Logo" width="25px">
-
-
-
 
 [![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
 [![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)](https://www.debian.org/)
@@ -54,9 +63,38 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/pages/download/)
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
 
-  
+
+
+
+<details>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=GuruMukhPrajapati&theme=neon-dark&hide_border=true&border_radius=50&card_width=496" alt="GitHub Streak" />
+  </a> </p>
+  <br>
+<div align="center">
+  <a href="https://github.com/GuruMukhPrajapati">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuruMukhPrajapati&theme=github_dark" />
+  </a>
+</div>
+<br>     
+<p align="center">
+  <a href="https://github.com/GuruMukhPrajapati">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuruMukhPrajapati&theme=github_dark" style="border-radius: 50px;" />
+  </a>
+</p>
+
+</details>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gurumukhprajapati/count.svg" />
+</p>
+
+<!--
 ###
 [![GitHub Status](https://img.shields.io/badge/GitHub%20Status-%23FF7F50?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/)
+
 
 
 <img align="right" alt="Coding" height="160px" widht="auto" src="https://user-images.githubusercontent.com/117162170/229713087-92fe7112-c5dc-4f2c-9af6-b840cf9cc959.gif">
@@ -74,7 +112,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/gurumukhprajapati/count.svg" />
 </p>
-
+-->
 
 
 
