@@ -20,16 +20,18 @@
   <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=COLOR" alt="Instagram">
 </a>
 <a href="https://www.linkedin.com/in/gurumukh">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=COLOR" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn">
 </a>
 
 ## 𝘓𝘈𝘕𝘎𝘜𝘈𝘎𝘌𝘚  <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/a1549136-05f9-43df-b1a5-19150ff4a487" alt="Logo" width="25px">
 
 
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/GuruMukhPrajapati/1ST_YEAR_C_laguage_CODES)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS)
+[![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=00FFFF)](https://github.com/GuruMukhPrajapati/C-PLUS-PLUS)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/GuruMukhPrajapati/All_code/tree/main/HTML%205)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/GuruMukhPrajapati/All_code/tree/main/HTML%205)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=1572B6)](https://github.com/GuruMukhPrajapati/All_code/tree/main/HTML%205)
+
+
 
 ## 𝘛𝘌𝘊𝘏𝘕𝘖𝘓𝘖𝘎𝘐𝘌𝘚 & 𝘍𝘙𝘈𝘔𝘌𝘞𝘖𝘙𝘒𝘚  <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/b5bb31fe-bde2-46ce-a7b6-8e1af6997b1d" alt="Logo" width="33px">
 
@@ -40,6 +42,8 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=000000&color=000000)](https://code.visualstudio.com/)
 [![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)](https://www.canva.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=COLOR1)](https://www.netlify.com/)
+[![Tor Browser](https://img.shields.io/badge/Tor%20Browser-black?style=for-the-badge&logo=tor-browser&logoColor=7D4698)](https://link/to/your/tor/browser)
+
 
 # 𝘊𝘌𝘙𝘛𝘐𝘍𝘐𝘊𝘈𝘛𝘌𝘚
 
@@ -56,13 +60,12 @@
 
 ## 𝘖𝘚 <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/98e41f67-25d1-47ca-aac9-ff6269d67154" alt="Logo" width="25px">
 
-[![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=557C94)](https://www.kali.org/)
-[![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian)](https://www.debian.org/)
+[![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kali-linux&logoColor=659B41)](https://www.kali.org/)
+[![Debian](https://img.shields.io/badge/Debian-black?style=for-the-badge&logo=debian&logoColor=D70A53)](https://www.debian.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)](https://ubuntu.com/)
 [![Tail OS](https://img.shields.io/badge/Tail_OS-black?style=for-the-badge&logo=tail-os)](https://www.tail-os.org)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/pages/download/)
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
-
 
 
 
