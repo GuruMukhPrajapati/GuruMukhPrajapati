@@ -54,6 +54,7 @@
 [![Introduction to Programming Using HTML and CSS](https://img.shields.io/badge/Introduction%20to%20Programming%20Using%20HTML%20and%20CSS-000000?style=for-the-badge&logoColor=COLOR1)](https://drive.google.com/file/d/1kJb7g4ONP9Ie_dpd7SgirEMmWlDNz_37/view)
 [![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logoColor=COLOR1)](https://udemy-certificate.s3.amazonaws.com/image/UC-7f90d333-b4f8-4033-a909-2821dda13c3c.jpg?v=1686207831000)
 [![Ethical Hacking from Scratch](https://img.shields.io/badge/Ethical%20Hacking%20from%20Scratch-000000?style=for-the-badge&logoColor=COLOR1)](https://udemy-certificate.s3.amazonaws.com/image/UC-6af44542-eeaa-4588-9419-023f5908f9e1.jpg)
+[![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=0000FF)](https://www.sololearn.com/certificates/CC-QPNNDQE4)
 
 
 
