@@ -43,6 +43,7 @@
 [![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC)](https://www.canva.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=COLOR1)](https://www.netlify.com/)
 [![Tor Browser](https://img.shields.io/badge/Tor%20Browser-black?style=for-the-badge&logo=tor-browser&logoColor=7D4698)](https://link/to/your/tor/browser)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=#1A1A1A.)](https://app.hackthebox.com/profile/overview)
 
 
 # 𝘊𝘌𝘙𝘛𝘐𝘍𝘐𝘊𝘈𝘛𝘌𝘚
@@ -55,6 +56,9 @@
 [![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logoColor=COLOR1)](https://udemy-certificate.s3.amazonaws.com/image/UC-7f90d333-b4f8-4033-a909-2821dda13c3c.jpg?v=1686207831000)
 [![Ethical Hacking from Scratch](https://img.shields.io/badge/Ethical%20Hacking%20from%20Scratch-000000?style=for-the-badge&logoColor=COLOR1)](https://udemy-certificate.s3.amazonaws.com/image/UC-6af44542-eeaa-4588-9419-023f5908f9e1.jpg)
 [![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=0000FF)](https://www.sololearn.com/certificates/CC-QPNNDQE4)
+[![Google Analytics](https://img.shields.io/badge/Google%20Analytics-000000?style=for-the-badge&logo=google%20analytics&logoColor=E37400)](https://skillshop.exceedlms.com/student/award/vSkCKunErmHzpBrEUwUdLuP6)
+
+
 
 
 
@@ -67,6 +71,7 @@
 [![Tail OS](https://img.shields.io/badge/Tail_OS-black?style=for-the-badge&logo=tail-os)](https://www.tail-os.org)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/pages/download/)
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
+
 
 
 
