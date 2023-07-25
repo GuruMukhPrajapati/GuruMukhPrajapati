@@ -57,6 +57,10 @@
 [![Ethical Hacking from Scratch](https://img.shields.io/badge/Ethical%20Hacking%20from%20Scratch-000000?style=for-the-badge&logoColor=COLOR1)](https://udemy-certificate.s3.amazonaws.com/image/UC-6af44542-eeaa-4588-9419-023f5908f9e1.jpg)
 [![C++](https://img.shields.io/badge/c%2B%2B-black?style=for-the-badge&logo=cplusplus&logoColor=0000FF)](https://www.sololearn.com/certificates/CC-QPNNDQE4)
 [![Google Analytics](https://img.shields.io/badge/Google%20Analytics-000000?style=for-the-badge&logo=google%20analytics&logoColor=E37400)](https://skillshop.exceedlms.com/student/award/vSkCKunErmHzpBrEUwUdLuP6)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=google%20cloud&logoColor=E37400)](https://www.cloudskillsboost.google/public_profiles/817d1503-8827-4a12-9615-70d68ebbe3d3/badges/4423760)
+
+
+
 
 
 
