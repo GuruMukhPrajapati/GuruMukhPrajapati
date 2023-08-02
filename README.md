@@ -3,7 +3,9 @@
      <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Alwyas+To+be;AIM+for+impossible....;Nice+to+meet+you!&center=true&size=30">
   </a>
-   <h1 align="center">ʜɪ, ɢᴜʏꜱ ! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+   <h1 align="center">ʜɪ, ɢᴜʏꜱ ! <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/ac583b85-1a84-4a19-9aa0-8f6e628ba16b" width="28px" alt="👋"></h1>
+
+
 
 # 𝙄'𝙢 𝙂𝙤𝙪𝙧𝙖𝙫 𝙋𝙧𝙖𝙟𝙖𝙥𝙖𝙩.
 - 𝑰 <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/0933404d-4a95-4894-9aa6-22f1ab981e53" alt="Logo" width="13px"> 𝑭𝒊𝒏𝒅 𝒕𝒉𝒆 𝒗𝒖𝒍𝒏𝒆𝒓𝒂𝒃𝒊𝒍𝒊𝒕𝒚
