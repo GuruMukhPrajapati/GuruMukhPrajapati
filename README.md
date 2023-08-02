@@ -33,7 +33,7 @@
 
 
 
-## 𝘛𝘌𝘊𝘏𝘕𝘖𝘓𝘖𝘎𝘐𝘌𝘚 & 𝘍𝘙𝘈𝘔𝘌𝘞𝘖𝘙𝘒𝘚  <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/b5bb31fe-bde2-46ce-a7b6-8e1af6997b1d" alt="Logo" width="33px">
+## 𝘛𝘌𝘏𝘕𝘖𝘓𝘖𝘎𝘐𝘌𝘚 & 𝘍𝘙𝘈𝘔𝘌𝘞𝘖𝘙𝘒𝘚  <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/b5bb31fe-bde2-46ce-a7b6-8e1af6997b1d" alt="Logo" width="33px">
 
 
 
@@ -75,6 +75,12 @@
 [![Tail OS](https://img.shields.io/badge/Tail_OS-black?style=for-the-badge&logo=tail-os)](https://www.tail-os.org)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://www.linux.org/pages/download/)
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
+
+
+## 𝑃𝐷𝐹𝑆 𝐴𝑁𝐷 𝑁𝑂𝑇𝐸𝑆
+
+[![PDF](https://img.shields.io/badge/PDF-000000?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=FF0000)](https://github.com/GuruMukhPrajapati/pdfs)
+
 
 
 
