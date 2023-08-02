@@ -46,7 +46,8 @@
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-000000?style=for-the-badge&logo=hackthebox&logoColor=#1A1A1A.)](https://app.hackthebox.com/profile/overview)
 
 
-# 𝘊𝘌𝘙𝘛𝘐𝘍𝘐𝘊𝘈𝘛𝘌𝘚
+# 𝘊𝘌𝘙𝘛𝘐𝘍𝘐𝘊𝘈𝘛𝘌𝘚 <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/cadff7db-d8a1-4362-aa17-fe05d9f39443" alt="Logo" width="25px">
+
 
 [![Ethical Hacking Essentials](https://img.shields.io/badge/Ethical%20Hacking%20Essentials-000000?style=for-the-badge&logoColor=COLOR1)](https://eccommonstorage.blob.core.windows.net/codered/certificates/e1f9b573-cd56-48d0-a622-1e26158c812d.png)
 [![Blockchain and Internet of Things](https://img.shields.io/badge/Blockchain%20and%20Internet%20of%20Things-000000?style=for-the-badge&logoColor=COLOR1)](https://drive.google.com/file/d/1kNHkBp1_t9uufW3Rj8FoAwtOu1CqHkpn/view)
@@ -77,7 +78,8 @@
 [![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=0078D6)](https://www.microsoft.com/windows)
 
 
-## 𝑃𝐷𝐹𝑆 𝐴𝑁𝐷 𝑁𝑂𝑇𝐸𝑆
+## 𝑃𝐷𝐹𝑆 𝐴𝑁𝐷 𝑁𝑂𝑇𝐸𝑆  <img src="https://github.com/GuruMukhPrajapati/GuruMukhPrajapati/assets/117162170/5ca584aa-dbe0-4ea4-8b8a-5b745a239c5d" alt="Logo" width="25px">
+
 
 [![PDF](https://img.shields.io/badge/PDF-000000?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=FF0000)](https://github.com/GuruMukhPrajapati/pdfs)
 
